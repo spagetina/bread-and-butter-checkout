@@ -4,3 +4,4 @@
 export function CartSummary({ items, subtotal, shipping }) {
   // component implementation
 }
+ test
